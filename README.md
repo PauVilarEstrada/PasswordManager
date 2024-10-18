@@ -1,3 +1,6 @@
+*ESPAÑOL*
+
+
 # Administrador de Contraseñas
 
 Este proyecto es un administrador de contraseñas que permite almacenar, visualizar, modificar y eliminar contraseñas para diferentes sitios web o aplicaciones. Hay dos versiones disponibles:
