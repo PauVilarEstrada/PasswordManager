@@ -59,7 +59,7 @@ cd Visual
 ````
 Ejecuta:
 ````bash
-python codline.py
+python codlineVisual.py
 ````
 **Credenciales de Administrador:**
 `Usuario: adminEMP`
